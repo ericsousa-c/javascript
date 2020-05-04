@@ -74,7 +74,7 @@ var idade = prompt("qual sua idade?");
 console.log(ValidaIdade(idade));
 */
 
-function botao(){
+/*function botao(){
     document.getElementById("clicar").innerHTML = "<b>Obrigado por clicar</b>"
     //alert("Obrigado por clicar");
 }
@@ -102,7 +102,7 @@ function load(){
 function FuncaoChange(elemento){
     console.log(elemento.value);
 }
-
+*/
 
 
 
